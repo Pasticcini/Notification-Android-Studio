@@ -1,7 +1,6 @@
 package com.firebase.notificationandroidstudio;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.AlarmManager;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
